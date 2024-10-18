@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eya Kallel</h1>
 <h3 align="center">Final-Year Engineering Student | Specializing in Data Science & Decision Systems</h3>
 
-- 🔭 I’m currently working on [a](Predictive Maintenance MLOps project.)
-
-- 👯 I’m looking to collaborate on **b**
-
-- 🤝 I’m looking for help with **c**
+- 🔭 I’m currently working on a Predictive Maintenance MLOps project.
 
 - 📫 How to reach me **eya.kallel@enetcom.u-sfax.tn**
 
